@@ -1,0 +1,7 @@
+---
+- name: Run the proxyservices.certificates.letsencrypt role.
+  hosts: '{{ target | default("letsencrypt") }}'
+  roles:
+    - { role: proxyservices.certificates.letsencrypt, tags: ['certificates', 'letsencrypt']}
+
+...
