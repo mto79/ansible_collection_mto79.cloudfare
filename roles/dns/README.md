@@ -1,11 +1,8 @@
-# Ansible role - mto79.system.cockpit
-
-This is an Ansible role to install and configure cockpit.
-Include more information about cockpit in this section.
+# Ansible role - mto79.cloudfare.dns
 
 ## Table of Contents
 
-- [Ansible role - mto79.system.cockpit](#ansible-role---mto79systemcockpit)
+- [Ansible role - mto79.cloudfare.dns](#ansible-role---mto79cloudfaredns)
   - [Table of Contents](#table-of-contents)
   - [Requirements](#requirements)
   - [Role variables](#role-variables)
